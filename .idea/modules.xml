@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2016-09_Zapp.iml" filepath="$PROJECT_DIR$/.idea/modules/2016-09_Zapp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/2016-09_Zapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/2016-09_Zapp.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/2016-09_Zapp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/2016-09_Zapp.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/2016-09_Zapp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/2016-09_Zapp.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/2016-09_Zapp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/2016-09_Zapp.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/goitapp.iml" filepath="$PROJECT_DIR$/.idea/modules/goitapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/goitapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/goitapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/goitapp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/goitapp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/goitapp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/goitapp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/goitapp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/goitapp.app.unitTest.iml" />
     </modules>
   </component>
 </project>
